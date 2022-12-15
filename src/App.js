@@ -1,6 +1,13 @@
+import Footer from "./Components/Footer";
+import Header from "./Components/Header";
+
+
 function App() {
   return (
-    <div>ola, mundo</div>
+    <div>
+     <Header />
+     <Footer />
+    </div>
   );
 }
 
